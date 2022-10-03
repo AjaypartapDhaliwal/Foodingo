@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://gc-auc.anonymous.foodwasteapp.exp.direct",
+  "packagerNgrokUrl": "https://gc-auc.anonymous.foodwasteapp.exp.direct",
+  "ngrokPid": 13272,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
